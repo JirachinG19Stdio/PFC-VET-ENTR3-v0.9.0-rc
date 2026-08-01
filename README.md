@@ -137,7 +137,7 @@ Resultado real más reciente:
 
 | Métrica | Valor |
 |---|---|
-| Pruebas ejecutadas | 108 |
+| Pruebas ejecutadas | 109 |
 | Fallos | 0 |
 | Errores | 0 |
 | Omitidas | 0 |
